@@ -1,0 +1,12 @@
+data/pdfs/*
+!data/pdfs/.gitkeep
+data/extracted/
+vectorstore/*
+!vectorstore/.gitkeep
+tests/
+.git
+.gitignore
+.env
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,13 @@
+PyMuPDF
+Pillow
+sentence-transformers
+torch
+chromadb
+requests
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+httpx
+pytest
+python-dotenv
